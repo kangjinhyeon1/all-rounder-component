@@ -6,3 +6,4 @@
 ### 사용 조건
 - React 기반 서비스에서 만 사용할 수 있습니다.
 - Typescript를 사용하셔야 합니다.
+- css, styled-components, tailwind 버전이 존재합니다.
